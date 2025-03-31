@@ -65,5 +65,12 @@
      
         ![Image](https://github.com/user-attachments/assets/10f2a8c4-aafb-40a9-995c-243c8c207afb)
 
+* 4️⃣ Handled Null values in column *'Where do you typically drink coffee?'*:
+    * There were totll *70 Null* values in this cloumn. Using pandas mod() function we got "At home" is the most frequent value, hence Null values in this column have been replaced with "At home".
+        ![Image](https://github.com/user-attachments/assets/201e8143-8fb1-49f0-a262-3817a04ff615)
+
+        ![Image](https://github.com/user-attachments/assets/e3fa2813-4dc0-4eea-ad21-7d73e62c0d0e)
+
+
 
 
